@@ -2,9 +2,9 @@
 // patch the global console
 // to default strip formatting
 
-require('console');
+require('bh5-ti/console');
 
-var util = require('util');
+var util = require('bh5-ti/util');
 
 /**
  * Expose `debug()` as the module.
