@@ -1,12 +1,12 @@
 {
   "name": "debug",
-  "repository": "tipm/debug",
+  "repository": "bh5-ti/debug",
   "description": "Easy configurable debug output.",
   "version": "1.0.1",
   "keywords": [],
   "dependencies": {
-    "tipm/console": "*",
-    "tipm/util": "*"
+    "bh5-ti/console": "*",
+    "bh5-ti/util": "*"
   },
   "development": {},
   "license": "MIT",
